@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/netcoreapp3.1/BankEncapsulationExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/netcoreapp3.1/BankEncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/netcoreapp3.1/BankEncapsulationExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/netcoreapp3.1/BankEncapsulationExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/netcoreapp3.1/BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/netcoreapp3.1/BankEncapsulationExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/netcoreapp3.1/BankEncapsulationExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/netcoreapp3.1/BankEncapsulationExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/netcoreapp3.1/BankEncapsulationExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/netcoreapp3.1/BankEncapsulationExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/netcoreapp3.1/BankEncapsulationExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/netcoreapp3.1/BankEncapsulationExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/netcoreapp3.1/BankEncapsulationExercise.genruntimeconfig.cache
